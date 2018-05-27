@@ -1,0 +1,34 @@
+/*.root{
+    -fx-background-color: #404040;
+}
+.menu-bar{
+    -fx-background-color: #4f4f4f;
+}*/
+.menu{
+    -fx-font-weight: bold;
+}
+.menu-item{
+   // -fx-background-color: #4f4f4f;
+    //-fx-color;
+    -fx-font-weight: bold;
+}
+.menu-item:hover{
+    //-fx-background-color: lightslategray;
+}
+.menu:hover{
+    //-fx-background-color: lightslategray;
+}
+.button {
+    -fx-background-color: transparent;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+.button:hover{
+    -fx-background-color: lightslategray;
+}
+.slider{
+    -fx-background-color: darkslategray;
+}
+.label{
+    -fx-font-weight: bold;
+}
